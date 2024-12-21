@@ -1,0 +1,163 @@
+Actual,Predicted,Predicted_Label
+0,5.717041e-09,No Capuchin Bird Call Detected
+0,8.1192436e-10,No Capuchin Bird Call Detected
+0,4.1503574e-16,No Capuchin Bird Call Detected
+0,3.2009742e-09,No Capuchin Bird Call Detected
+0,3.7216673e-06,No Capuchin Bird Call Detected
+0,3.750693e-09,No Capuchin Bird Call Detected
+1,0.9996269,Capuchin Bird Call Detected
+0,1.2451952e-10,No Capuchin Bird Call Detected
+0,1.666361e-09,No Capuchin Bird Call Detected
+0,3.3218178e-06,No Capuchin Bird Call Detected
+1,0.9999999,Capuchin Bird Call Detected
+0,1.5633331e-10,No Capuchin Bird Call Detected
+0,5.3631086e-09,No Capuchin Bird Call Detected
+0,3.0243064e-07,No Capuchin Bird Call Detected
+0,6.010696e-08,No Capuchin Bird Call Detected
+0,2.5671585e-13,No Capuchin Bird Call Detected
+0,0.038105816,No Capuchin Bird Call Detected
+1,0.9999877,Capuchin Bird Call Detected
+0,1.5463716e-05,No Capuchin Bird Call Detected
+0,6.912073e-15,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+1,0.9999998,Capuchin Bird Call Detected
+0,1.6858114e-05,No Capuchin Bird Call Detected
+0,2.86537e-05,No Capuchin Bird Call Detected
+1,0.99998945,Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+0,6.001248e-34,No Capuchin Bird Call Detected
+1,0.9997684,Capuchin Bird Call Detected
+1,0.99996966,Capuchin Bird Call Detected
+1,0.9990145,Capuchin Bird Call Detected
+0,1.1074857e-12,No Capuchin Bird Call Detected
+0,1.3028755e-08,No Capuchin Bird Call Detected
+0,5.3413363e-12,No Capuchin Bird Call Detected
+0,3.4522606e-22,No Capuchin Bird Call Detected
+0,1.9053582e-35,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+0,5.0974384e-05,No Capuchin Bird Call Detected
+0,6.310806e-05,No Capuchin Bird Call Detected
+1,0.9999964,Capuchin Bird Call Detected
+1,0.9999874,Capuchin Bird Call Detected
+1,0.9997527,Capuchin Bird Call Detected
+0,0.0020908106,No Capuchin Bird Call Detected
+0,9.7398915e-11,No Capuchin Bird Call Detected
+1,0.99999994,Capuchin Bird Call Detected
+0,9.5581125e-09,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+0,3.4262042e-15,No Capuchin Bird Call Detected
+0,0.0025866174,No Capuchin Bird Call Detected
+0,4.2290657e-07,No Capuchin Bird Call Detected
+0,0.00095870823,No Capuchin Bird Call Detected
+0,1.5195501e-13,No Capuchin Bird Call Detected
+0,6.428653e-08,No Capuchin Bird Call Detected
+0,1.026228e-06,No Capuchin Bird Call Detected
+0,5.375025e-07,No Capuchin Bird Call Detected
+0,1.8525515e-07,No Capuchin Bird Call Detected
+0,7.6937783e-13,No Capuchin Bird Call Detected
+0,5.8523416e-05,No Capuchin Bird Call Detected
+1,0.99999976,Capuchin Bird Call Detected
+0,1.2906744e-05,No Capuchin Bird Call Detected
+0,0.003896725,No Capuchin Bird Call Detected
+0,3.4889877e-10,No Capuchin Bird Call Detected
+0,9.622226e-09,No Capuchin Bird Call Detected
+1,0.9998307,Capuchin Bird Call Detected
+1,0.99700445,Capuchin Bird Call Detected
+0,0.0144247925,No Capuchin Bird Call Detected
+1,0.99998677,Capuchin Bird Call Detected
+0,2.0305434e-07,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+1,0.9999999,Capuchin Bird Call Detected
+1,0.99999887,Capuchin Bird Call Detected
+0,7.369915e-11,No Capuchin Bird Call Detected
+0,7.0019146e-06,No Capuchin Bird Call Detected
+0,3.6428473e-06,No Capuchin Bird Call Detected
+0,8.190613e-05,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+0,6.330505e-09,No Capuchin Bird Call Detected
+0,1.048373e-07,No Capuchin Bird Call Detected
+0,3.9717117e-13,No Capuchin Bird Call Detected
+0,5.979137e-05,No Capuchin Bird Call Detected
+1,0.999976,Capuchin Bird Call Detected
+0,8.734922e-09,No Capuchin Bird Call Detected
+0,2.840802e-06,No Capuchin Bird Call Detected
+1,0.99991775,Capuchin Bird Call Detected
+1,0.99979186,Capuchin Bird Call Detected
+0,3.8316346e-05,No Capuchin Bird Call Detected
+0,0.0022203093,No Capuchin Bird Call Detected
+0,5.6287074e-05,No Capuchin Bird Call Detected
+0,9.47182e-08,No Capuchin Bird Call Detected
+0,6.208313e-12,No Capuchin Bird Call Detected
+0,3.1985458e-06,No Capuchin Bird Call Detected
+0,1.46811435e-05,No Capuchin Bird Call Detected
+0,7.608032e-32,No Capuchin Bird Call Detected
+0,1.1600776e-08,No Capuchin Bird Call Detected
+0,0.00028957412,No Capuchin Bird Call Detected
+0,1.5656282e-06,No Capuchin Bird Call Detected
+0,1.7676298e-07,No Capuchin Bird Call Detected
+0,3.1461275e-10,No Capuchin Bird Call Detected
+0,2.5875165e-08,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+0,0.8130233,Capuchin Bird Call Detected
+1,0.99999994,Capuchin Bird Call Detected
+0,4.1092757e-10,No Capuchin Bird Call Detected
+0,0.0002061017,No Capuchin Bird Call Detected
+0,1.0785324e-06,No Capuchin Bird Call Detected
+0,4.6544483e-05,No Capuchin Bird Call Detected
+1,0.99999833,Capuchin Bird Call Detected
+0,0.98315763,Capuchin Bird Call Detected
+1,0.998987,Capuchin Bird Call Detected
+1,0.999997,Capuchin Bird Call Detected
+0,5.8712213e-09,No Capuchin Bird Call Detected
+0,5.442224e-10,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+0,2.5647655e-06,No Capuchin Bird Call Detected
+0,4.4182333e-09,No Capuchin Bird Call Detected
+0,3.2154723e-08,No Capuchin Bird Call Detected
+1,0.9999995,Capuchin Bird Call Detected
+1,0.99995404,Capuchin Bird Call Detected
+0,1.574751e-24,No Capuchin Bird Call Detected
+1,0.99922746,Capuchin Bird Call Detected
+0,4.6019824e-07,No Capuchin Bird Call Detected
+0,0.00044496046,No Capuchin Bird Call Detected
+0,6.337817e-08,No Capuchin Bird Call Detected
+0,1.989567e-09,No Capuchin Bird Call Detected
+0,9.565512e-10,No Capuchin Bird Call Detected
+0,4.5734998e-07,No Capuchin Bird Call Detected
+1,0.9998766,Capuchin Bird Call Detected
+0,1.3350698e-05,No Capuchin Bird Call Detected
+1,1.0,Capuchin Bird Call Detected
+1,0.9999886,Capuchin Bird Call Detected
+0,2.758432e-10,No Capuchin Bird Call Detected
+0,9.522751e-10,No Capuchin Bird Call Detected
+0,2.1342566e-14,No Capuchin Bird Call Detected
+0,6.6058514e-09,No Capuchin Bird Call Detected
+1,0.9999997,Capuchin Bird Call Detected
+0,1.8796525e-10,No Capuchin Bird Call Detected
+0,8.799944e-08,No Capuchin Bird Call Detected
+0,1.22864985e-05,No Capuchin Bird Call Detected
+0,0.0029752604,No Capuchin Bird Call Detected
+0,1.6148657e-06,No Capuchin Bird Call Detected
+0,7.3460464e-14,No Capuchin Bird Call Detected
+0,1.1308951e-10,No Capuchin Bird Call Detected
+0,9.6221155e-09,No Capuchin Bird Call Detected
+1,0.98604685,Capuchin Bird Call Detected
+0,7.2809074e-09,No Capuchin Bird Call Detected
+0,5.016467e-06,No Capuchin Bird Call Detected
+1,0.99845576,Capuchin Bird Call Detected
+0,1.587506e-26,No Capuchin Bird Call Detected
+1,0.999995,Capuchin Bird Call Detected
+0,2.3543949e-18,No Capuchin Bird Call Detected
+0,4.6102888e-10,No Capuchin Bird Call Detected
+0,0.0032983234,No Capuchin Bird Call Detected
+0,1.5202357e-11,No Capuchin Bird Call Detected
+1,0.99999875,Capuchin Bird Call Detected
+0,3.134959e-08,No Capuchin Bird Call Detected
+0,8.258909e-10,No Capuchin Bird Call Detected
+0,6.521849e-08,No Capuchin Bird Call Detected
+0,3.2400952e-29,No Capuchin Bird Call Detected
+0,1.4165794e-06,No Capuchin Bird Call Detected
+0,7.0607746e-09,No Capuchin Bird Call Detected
+0,1.4962293e-08,No Capuchin Bird Call Detected
+0,0.0011380471,No Capuchin Bird Call Detected
