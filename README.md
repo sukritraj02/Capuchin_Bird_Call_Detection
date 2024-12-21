@@ -66,9 +66,9 @@ The dataset used for this project includes:
 ## Contributions 💖
 Thanks to the following amazing contributors for their efforts in building this project:
 
-- [@sukritraj02](https://github.com/sukritraj02) 🐦 — Lead developer .
-- [@stays1lly](https://github.com/stays1lly) 🛠️ — Assisted in dataset preprocessing and audio visualization.
-- [@Anshita121004](https://github.com/Anshita121004) 🔬 — Worked on model training and result analysis.
+- [@Sukrit](https://github.com/sukritraj02) 🐦 — Lead developer .
+- [@Apoorva](https://github.com/stays1lly) 🛠️ — Assisted in dataset preprocessing and audio visualization.
+- [@Anshita](https://github.com/Anshita121004) 🔬 — Worked on model training and result analysis.
 
 
 
