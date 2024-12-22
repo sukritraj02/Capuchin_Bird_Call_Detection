@@ -1,17 +1,21 @@
 # Capuchin Bird Call Detection 🐦🎶
 
-This project focuses on detecting Capuchin bird calls in audio recordings using advanced audio processing and machine learning techniques. The goal is to classify audio clips into two categories: 
+This project focuses on detecting Capuchin bird calls in audio recordings using advanced audio processing and machine learning techniques. The goal is to classify audio clips into two categories:
+
 - **1**: Capuchin bird call is present.
 - **0**: Capuchin bird call is absent.
 
 ## Features ✨
+
 - **Preprocessing:** Handles raw audio data, removes noise, and normalizes signals.
 - **Machine Learning:** Implements deep learning techniques to classify bird calls.
 - **Visualization:** Displays confusion matrices and model performance metrics.
 - **Export Results:** Generates CSV files with predictions for easy interpretation.
 
 ## Dataset 📂
+
 The dataset used for this project includes:
+
 1. Forest recordings with mixed audio.
 2. Parsed audio clips containing Capuchin bird calls.
 3. Parsed non-Capuchin bird clips.
@@ -19,12 +23,14 @@ The dataset used for this project includes:
 **Audio Format:** `.wav`
 
 ## Technologies Used 🛠️
+
 - **Programming Language:** Python
 - **Libraries:** TensorFlow, NumPy, Librosa, Matplotlib, Pandas
 - **Deep Learning Model:** CNN-based architecture
 - **Other Tools:** Grad-CAM for visualization
 
 ## How to Use 🚀
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/sukritraj02/Capuchin_Bird_Call_Detection.git
@@ -59,17 +65,17 @@ The dataset used for this project includes:
    ```
 
 ## Results 📊
+
 - **Accuracy:** Achieved XX% accuracy on the test dataset.
 - **Confusion Matrix:** Displays true positive and false positive rates for classification.
 - **CSV Output:** Generated predictions with timestamps for bird calls.
 
 ## Contributions 💖
+
 Thanks to the following amazing contributors for their efforts in building this project:
 
-- [@Sukrit](https://github.com/sukritraj02) 🐦 — Lead developer .
-- [@Apoorva](https://github.com/stays1lly) 🛠️ — Assisted in dataset preprocessing and audio visualization.
-- [@Anshita](https://github.com/Anshita121004) 🔬 — Worked on model training and result analysis.
-
-
+- [@Sukrit](https://github.com/sukritraj02) 🐦 — Idea formulation and lead development.
+- [@Apoorva](https://github.com/stays1lly) 🛠️ — Dataset preprocessing, audio visualization and front-end development.
+- [@Anshita](https://github.com/Anshita121004) 🔬 — Model training and result analysis.
 
 Feel free to contribute by submitting issues or pull requests to improve the project further!
